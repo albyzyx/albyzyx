@@ -4,25 +4,6 @@
 
 <h1 align="center"></h1>
 
-### Hi there! its Albin.👋
-
-- 🔭 I’m currently working on **ReactJS, NodeJS and Flutter**
-
-- 🌱 I’m currently learning **Blockchain**
-
-- 👯 I’m looking to collaborate on **Blockchain**
-
-- 💬 Ask me about **Anything Tech🧪**
-
-- 💙 I love **Programming**
-
-- ⚡ Fun fact: **Java is a type of caffeine☕. Literally!**
-
-<h1 align="center"></h1>
-
-![Albin's GitHub stats](https://github-readme-stats.vercel.app/api?username=albyzyx&show_icons=true&theme=radical)
-
-<h1 align="center"></h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albyzyx)](https://github.com/albyzyx/github-readme-stats)
 
